@@ -1,9 +1,8 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="20%"/>
-</p>
 
-<h1 align="center">Meteor Client</h1>
+
+<h1 align="center">SweatHax</h1>
 
 <p align="center">A Minecraft Fabric Utility Mod for the latest Minecraft release.</p>
 
